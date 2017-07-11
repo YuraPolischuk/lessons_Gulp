@@ -1,0 +1,13 @@
+div {
+	display: block;
+	margin: 10px;
+}
+
+p {
+	font-size: 10px;
+	font-weight: 300
+}
+
+a:hover {
+	color:#fff;
+}
